@@ -111,3 +111,11 @@ answer6 = sum(df.q6$logret < df.q6$VaR.t)   ### replace NA with R code generatin
 cat("Answer Q6:", answer6,'\n')        
 ### question 6 end   ###
 
+
+
+
+answers = rep(NA, 6)
+for (i in 2:6){
+  answers[i] = check_for_answer(i)
+}
+answers

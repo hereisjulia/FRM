@@ -3,7 +3,7 @@
     "path": "E:/MQM_Courses/Term5/Financial_Risk_Management/FRM/Individual#3.R",
     "project_path": "Individual#3.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1457878862",
     "contents": "",
     "dirty": false,
     "created": 1711564028450.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "93,41",
-        "scrollLine": "77"
+        "cursorPosition": "117,15",
+        "scrollLine": "86"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711565700,
+    "lastKnownWriteTime": 1711572561,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711565700383,
+    "last_content_update": 1711572561372,
     "read_only": false,
     "read_only_alternatives": []
 }
